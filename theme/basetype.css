@@ -26,6 +26,7 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/styles/github.min.css");
 @import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Spline+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://font.emtech.cc/css/LINESeedTW");
 
 :root {
   --accent-color: #5a8;
@@ -80,7 +81,7 @@ section {
   line-height: 1.5;
   padding: var(--pad-y) calc(var(--pad-x) - var(--side-pad)) var(--pad-y)
     var(--pad-x);
-  font-family: "Spline Sans", Inter, sans-serif;
+  font-family: "LINESeedTW", Inter, sans-serif;
   display: flex;
   flex-flow: column nowrap;
   align-items: stretch;

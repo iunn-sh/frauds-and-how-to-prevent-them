@@ -4,7 +4,7 @@
 
 * Framework [marp-team/marp-cli](https://github.com/marp-team/marp-cli)
 * Theme [rstacruz/marp-basetype](https://github.com/rstacruz/marp-basetype)
-* Font [justfont/open-huninn-font](https://github.com/justfont/open-huninn-font)
+* Font [LINE Seed TW](https://font.emtech.cc/fonts/LINESeedTW)
 
 ```
 # install
