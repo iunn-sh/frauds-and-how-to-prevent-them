@@ -15,5 +15,5 @@ brew install marp-cli
 marp --server ./
 
 # export
-marp --theme theme/corporate.css presentation.md
+marp --theme theme/basetype.css presentation.md
 ```
