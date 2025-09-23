@@ -1,2 +1,19 @@
-# Frauds-and-How-to-Prevent-Them
-Frauds and How to Prevent Them
+![Marp](https://img.shields.io/badge/marp--cli-4.2.3-0288d1?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAUUlEQVQokWNgGD6AqePif3Sx9B2PMcQwNKFrTN/x+D9ejTBNyBphmnBqRNYE04isCatGdE1MHRf/o2vC0IhNE1PaXPwacWnCqxGfJoI2Dn4AAN0ZrMM1VUFvAAAAAElFTkSuQmCC) ![GitHub License](https://img.shields.io/github/license/iunn-sh/frauds-and-how-to-prevent-them?style=for-the-badge)
+
+# Frauds and How to Prevent Them
+
+* Framework [marp-team/marp-cli](https://github.com/marp-team/marp-cli)
+* Theme [mikael-ros/neobeam](https://github.com/mikael-ros/neobeam)
+* Font [justfont/open-huninn-font](https://github.com/justfont/open-huninn-font)
+* Icon [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+
+```
+# install
+brew install marp-cli
+
+# preview
+marp --server ./
+
+# export
+marp --theme theme/corporate.css presentation.md
+```
