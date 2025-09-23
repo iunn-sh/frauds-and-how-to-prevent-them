@@ -3,9 +3,8 @@
 # Frauds and How to Prevent Them
 
 * Framework [marp-team/marp-cli](https://github.com/marp-team/marp-cli)
-* Theme [mikael-ros/neobeam](https://github.com/mikael-ros/neobeam)
+* Theme [rstacruz/marp-basetype](https://github.com/rstacruz/marp-basetype)
 * Font [justfont/open-huninn-font](https://github.com/justfont/open-huninn-font)
-* Icon [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
 
 ```
 # install
