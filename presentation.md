@@ -1,16 +1,16 @@
 ---
-title: "詐騙與他們的產地"
+title: "詐騙與他們的防制"
 marp: true
 theme: basetype
 paginate: true
-footer: 詐騙與他們的產地
+footer: 詐騙與他們的防制
 ---
 
 <!-- _class: bg-grid -->
 <!-- _paginate: false -->
 <!-- _footer: '從案例分析認識如何防制詐騙' -->
 
-# 詐騙與他們的產地
+# 詐騙與他們的防制
 Frauds and How to Prevent Them
 
 ---
