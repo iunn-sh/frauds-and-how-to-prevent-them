@@ -8,7 +8,7 @@ footer: 詐騙與他們的防制
 
 <!-- _class: bg-grid -->
 <!-- _paginate: false -->
-<!-- _footer: '從案例分析認識如何防制詐騙' -->
+<!-- _footer: '2025 Q4' -->
 
 # 詐騙與他們的防制
 Frauds and How to Prevent Them
@@ -17,8 +17,8 @@ Frauds and How to Prevent Them
 
 ## Outline 大綱
 
-1. 新聞案例
-2. 常見詐騙手法統計
+1. 案例／統計
+2. 常見詐騙手法
 3. 實戰演練
 4. 檢討機制
 5. 尋求救濟
@@ -28,9 +28,10 @@ Frauds and How to Prevent Them
 
 ---
 
-詐騙之島？
+# 詐騙之島？
 
 詐騙是怎麼煉成的
+案例統計
 
 ---
 
@@ -74,7 +75,14 @@ Frauds and How to Prevent Them
 
 ---
 
-## 實戰演練
+# 實戰演練
+
+角色扮演
+戰術檢討
+
+---
+
+## 分組
 
 角色扮演：詐騙集團、詐騙目標、親友、觀察者、雞婆路人、警察、銀行行員
 
@@ -93,6 +101,13 @@ twist
 - 做的好的地方
 - 沒做好的
 - 下次可以開始做的
+
+---
+
+# 保護機制
+
+協助資源
+救濟方式
 
 ---
 
