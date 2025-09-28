@@ -17,7 +17,7 @@ Frauds and How to Prevent Them
 
 ## Outline 大綱
 
-1. 案例／統計
+1. 案例統計
 2. 常見詐騙手法
 3. 實戰演練
 4. 檢討機制
@@ -53,7 +53,7 @@ Frauds and How to Prevent Them
 
 ---
 
-### 目標
+### 常見詐騙手法（目前）
 
 - 解除分期付款 :moneybag:
 - 求職 :moneybag: :identification_card:
@@ -78,19 +78,40 @@ Frauds and How to Prevent Them
 # 實戰演練
 
 角色扮演
-戰術檢討
+檢討回顧
 
 ---
 
 ## 分組
 
+普發現金挑戰賽
+
 角色扮演：詐騙集團、詐騙目標、親友、觀察者、雞婆路人、警察、銀行行員
+目標 & 手段
+
+識別：肥羊、手法
+應對：投其所好、防禦與反攻
 
 reveal identity
 
-switch
+switch roles
 
-twist
+twist - challenge accepted
+
+---
+
+<!-- _class: side-figure -->
+
+### [慎防普發萬元詐騙](https://165.npa.gov.tw/#/article/1/1715)
+內政部警政署 2025.09
+
+四不原則
+- 不點擊可疑連結
+- 不填寫個資帳號
+- 不匯款任何費用
+- 不轉傳陌生訊息
+
+> ![](https://165.npa.gov.tw/images/20250910/DC81585DD5F3F12DB134EB0ACFCD9F0B.jpg)
 
 ---
 
@@ -100,7 +121,7 @@ twist
 
 - 做的好的地方
 - 沒做好的
-- 下次可以開始做的
+- 下次可以開始做的：戰略／戰術
 
 ---
 
@@ -155,13 +176,13 @@ twist
 
 ---
 
-![bg right](https://source.unsplash.com/ttI4Nxp-IyU)
+![bg right](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
 
 # Image cover, split light
 
 ---
 
-![bg right](https://source.unsplash.com/75xPHEQBmvA)
+![bg right](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
 
 # Image cover, split grid
 <!-- _class: bg-grid -->
@@ -170,13 +191,13 @@ twist
 
 <!-- _class: bg-dark -->
 
-![bg brightness:.7](https://source.unsplash.com/Jn2EaLLYZfY)
+![bg brightness:.7](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
 
 # Image cover, dark
 
 ---
 
-[bg opacity:0.5](https://source.unsplash.com/T9Gsevu_N8Y)
+[bg opacity:0.5](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
 
 # Image cover, light
 
@@ -184,7 +205,7 @@ twist
 
 <!-- _class: bg-dark -->
 
-![bg brightness:.5 right](https://source.unsplash.com/QiQqHm8aaUM)
+![bg brightness:.5 right](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
 
 # Image heading, split
 
@@ -192,21 +213,22 @@ twist
 
 <!-- _class: bg-dark -->
 
-![bg brightness:.5](https://source.unsplash.com/QiQqHm8aaUM)
+![bg brightness:.5](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
 
 # Image heading, dark
 
 ---
 
-![bg opacity:0.5](https://source.unsplash.com/T9Gsevu_N8Y)
+![bg opacity:0.5](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
 
 # Image heading, light
 
 ---
 
 <!-- _header: Inline image, wide -->
+<!-- _class: no-image-shadow -->
 
-![](https://source.unsplash.com/8IhVh0xU2Hc/1100x500)
+![](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*_9cez7-2OwbRVJlFp5bVnQ.png)
 
 It's very important to be looking at phones for a long time.
 
@@ -215,7 +237,7 @@ It's very important to be looking at phones for a long time.
 <!-- _class: font-sm -->
 <!-- _header: Background, split right -->
 
-![bg right](https://source.unsplash.com/dMUt0X3f59Q)
+![bg right](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
 
 ## Split right
 
@@ -228,7 +250,7 @@ This might seem excessive for those who prefer the command line, but it makes fo
 <!-- _class: font-sm -->
 <!-- _header: Background, split right -->
 
-![bg right contain](https://source.unsplash.com/dMUt0X3f59Q/300x500)
+![bg right contain](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
 
 ## Split right
 
@@ -293,7 +315,7 @@ Est pellentesque elit ullamcorper dignissim cras. Urna duis convallis convallis 
 
 Violins are also important in many varieties of folk music, including country music, bluegrass music, and in jazz. Electric violins with solid bodies and piezoelectric pickups are used in some forms of rock music and jazz fusion.
 
-> ![](https://source.unsplash.com/mjl0yIdSi18/800x500)
+> ![](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
 
 ---
 
@@ -304,7 +326,7 @@ Violins are also important in many varieties of folk music, including country mu
 
 In Europe, it served as the basis for the development of other stringed instruments used in Western classical music.
 
-> ![](https://source.unsplash.com/X4xe0W7PZFg/500x900)
+> ![](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
 
 ---
 
@@ -336,7 +358,7 @@ it("works", () => {
 
 <!-- _header: Wide image -->
 
-![](https://source.unsplash.com/R5A_YlcSJwA/1100x580)
+![](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
 
 **Image example** — This image appears to be rather large.
 
@@ -345,7 +367,7 @@ it("works", () => {
 <!-- _header: Background image -->
 <!-- _class: align-bottom bg-gray -->
 
-![bg](https://source.unsplash.com/wTM1DSqRfM0)
+![bg](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
 
 This image is a background.
 
