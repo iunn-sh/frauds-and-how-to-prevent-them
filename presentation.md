@@ -53,18 +53,51 @@ Frauds and How to Prevent Them
 
 ---
 
+### [愛情陷阱！假交友詐騙橫行 甜言蜜語背後藏危機](https://police.npa.gov.tw/ch/app/data/view?module=wg081&id=1835&serno=0e226547-a730-4fb2-95b0-613e77746b82) 
+內政部警政署 2025.05
+
+詐騙集團...透過社群媒體、交友軟體...等通訊工具，主動接觸目標對象，進而設下愛情與金錢交織的騙局。警方表示，詐騙集團會<mark>偽裝成帥氣男子或漂亮女性</mark>，並以「軍人」、「醫生」、「金融專業人士」等身分與被害人互動，過程中不斷關心對方、稱呼親密，很快就<mark>發展成「網戀關係」</mark>。在建立信任後，便開始鼓吹各種投資機會，...被害人在<mark>初期投入小額資金</mark>後，往往會看到帳戶顯示「穩定獲利」，因而深信不疑，<mark>逐步投入更大金額</mark>，當欲提領資金或帳戶出現異常時，對方卻以各種理由<mark>拖延、消失</mark>，甚至直接封鎖聯絡方式，才驚覺遭詐。
+
+假交友詐騙的5大特徵：
+1. 來路不明的好友邀請
+2. 甜言蜜語、快速建立信任
+3. 聊到投資或金錢話題
+5. 不肯視訊、不願意見面
+
+---
+
+### 目標
+
+1. 個人資料 :identification_card:
+2. 錢：現金、付款資訊 :moneybag:
+3. 個資＋錢 :identification_card: :moneybag:
+
+---
+
 ### 常見詐騙手法（目前）
 
 - 解除分期付款 :moneybag:
-- 求職 :moneybag: :identification_card:
-- 假交友 :moneybag: :credit_card: :identification_card:
-- 盜帳號 :credit_card: :identification_card:
+- 求職 :identification_card: :moneybag:
+- 假交友 :identification_card: :moneybag:
+- 盜帳號 :identification_card:
 - 點數卡 :moneybag:
 - 網路購物 :moneybag:
-- 中獎／領補助 :moneybag: :identification_card:
+- 中獎／領補助 :identification_card: :moneybag:
 - 投資 :moneybag:
 - 戶政機關 :identification_card:
-- 健保 :moneybag: :identification_card:
+- 健保 :identification_card: :moneybag:
+
+---
+
+[假投票](https://165dashboard.tw/download-area/138554219148873728) 2025.04
+
+![](https://165dashboard.tw/CIB_DWS_API/api/DownloadArea/GetDownlodAreaImage?id=165394499369963520)
+
+---
+
+[假投資](https://165dashboard.tw/download-area/138554219148873728) 2025.07
+
+![](https://165dashboard.tw/CIB_DWS_API/api/DownloadArea/GetDownlodAreaImage?id=213596829688795136)
 
 ---
 
@@ -120,6 +153,12 @@ twist - challenge accepted
 - 做的好的地方
 - 沒做好的
 - 下次可以開始做的：戰略／戰術
+
+---
+
+[二次詐騙](https://165.npa.gov.tw/#/article/C/1467) 2024.04
+
+![](https://165.npa.gov.tw/images/20240422/E30D5F4ED8CF4F8B5F461241F0091F52.jpg)
 
 ---
 
