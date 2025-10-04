@@ -10,6 +10,8 @@ footer: 詐騙與他們的防制
 <!-- _paginate: false -->
 <!-- _footer: '2025 Q4' -->
 
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.0"></script>
+
 # 詐騙與他們的防制
 Frauds and How to Prevent Them
 
@@ -74,7 +76,7 @@ Frauds and How to Prevent Them
 
 ---
 
-### 常見詐騙手法（目前）
+### 常見詐騙手法（例）
 
 - 解除分期付款 :moneybag:
 - 求職 :identification_card: :moneybag:
@@ -103,8 +105,93 @@ Frauds and How to Prevent Them
 
 ## 統計
 
-月
-年
+
+
+---
+
+### [地檢署電信網路詐欺案件：偵查新收件數](https://www.rjsd.moj.gov.tw/RJSDWeb/visualize/Visualization.aspx?kind=PC&d=12)
+2021-2025
+
+<div>
+  <canvas id="barChartProsecute"></canvas>
+</div>
+
+<script>
+  const ctxProsecute = document.getElementById('barChartProsecute');
+
+  new Chart(ctxProsecute, {
+    type: 'bar',
+    data: {
+      labels: ['2021', '2022', '2023', '2024', '2025'],
+      datasets: [{
+        label: '電信網路詐欺（01-08月）',
+        data: [59228, 101461, 152243, 115364, 110980],
+        borderWidth: 1
+      },
+      {
+        label: '電信網路詐欺（09-12月）',
+        data: [(98256-59228), (160803-101461), (229711-152243), (167932-115364), 0],
+        borderWidth: 1
+      }]
+    },
+    options: {
+      scales: {
+        x: {
+          stacked: true,
+        },
+        y: {
+          stacked: true,
+          beginAtZero: true
+        }
+      }
+    }
+  });
+</script>
+
+---
+
+### [警政署：月統計數據](https://165dashboard.tw/)
+2025.01-09
+
+<div>
+  <canvas id="barChartPolice"></canvas>
+</div>
+
+<script>
+  const ctxPolice = document.getElementById('barChartPolice');
+
+  new Chart(ctxPolice, {
+    type: 'bar',
+    data: {
+      labels: ['2025.01', '2025.02', '2025.03', '2025.04','2025.05', '2025.06', '2025.07', '2025.08', '2025.09'],
+      datasets: [{
+        label: '受理數',
+        data: [13120, 10773, 16643, 15961, 16003, 16388, 16423, 15296, 14109],
+        borderWidth: 1,
+        order: 1,
+        yAxisID: 'yCount',
+      },
+      {
+        label: '財產損失金額',
+        data: [9545629000, 6081725000, 7091237000, 7652441000, 8729678000, 8915091000, 8541004000, 7348669000, 6717797000],
+        borderWidth: 2,
+        type: 'line',
+        order: 0
+      }]
+    },
+    options: {
+      scales: {
+        y: {
+          beginAtZero: true
+        },
+        yCount: {
+          beginAtZero: true,
+          position: 'right',
+        }
+      }
+    }
+  });
+</script>
 
 ---
 
@@ -188,7 +275,7 @@ twist - challenge accepted
 ## Takeaway 精華
 
 - 保持警覺：陌生人、自稱政府機關、熟人（？）
-- 天下沒有白吃的午餐
+- 天下沒有白吃的午餐 The "too good to be true"
 - Trust but verify
 - 創意無限：手法多變且常推陳出新
 - 關心身邊人事物：大家都有重要角色

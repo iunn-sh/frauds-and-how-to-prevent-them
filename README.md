@@ -7,14 +7,15 @@
 * Framework [marp-team/marp-cli](https://github.com/marp-team/marp-cli)
 * Theme [rstacruz/marp-basetype](https://github.com/rstacruz/marp-basetype)
 * Font [LINE Seed TW](https://font.emtech.cc/fonts/LINESeedTW)
+* Chart [chartjs/Chart.js](https://github.com/chartjs/Chart.js)
 
 ```
 # install
 brew install marp-cli
 
 # preview
-marp --server ./
+marp --server --html ./
 
 # export
-marp --theme theme/basetype.css presentation.md
+marp --theme theme/basetype.css --html presentation.md
 ```
