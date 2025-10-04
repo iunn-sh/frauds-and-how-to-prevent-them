@@ -103,15 +103,15 @@ Frauds and How to Prevent Them
 
 ---
 
-## 統計
+# 統計
 
 法務部地檢署
 內政部警政署
 
 ---
 
-### [地檢署電信網路詐欺案件：偵查新收件數](https://www.rjsd.moj.gov.tw/RJSDWeb/visualize/Visualization.aspx?kind=PC&d=12)
-2021-2025
+### [電信網路詐欺案件：偵查新收件數](https://www.rjsd.moj.gov.tw/RJSDWeb/visualize/Visualization.aspx?kind=PC&d=12)
+地檢署 2021-2025
 
 <div>
   <canvas id="barChartProsecute"></canvas>
@@ -142,7 +142,11 @@ Frauds and How to Prevent Them
         },
         y: {
           stacked: true,
-          beginAtZero: true
+          beginAtZero: true,
+          title: {
+            display: true,
+            text: '件',
+          }
         }
       }
     }
@@ -151,8 +155,8 @@ Frauds and How to Prevent Them
 
 ---
 
-### [警政署：月統計數據](https://165dashboard.tw/)
-2025.01-09
+### [月統計數據](https://165dashboard.tw/)
+警政署 2025.01-09
 
 <div>
   <canvas id="barChartPolice"></canvas>
@@ -177,22 +181,56 @@ Frauds and How to Prevent Them
         data: [9545629000, 6081725000, 7091237000, 7652441000, 8729678000, 8915091000, 8541004000, 7348669000, 6717797000],
         borderWidth: 2,
         type: 'line',
-        order: 0
+        order: 0,
       }]
     },
     options: {
       scales: {
         y: {
-          beginAtZero: true
+          beginAtZero: true,
+          position: 'right',
+          title: {
+            display: true,
+            text: 'NTD',
+          }
         },
         yCount: {
           beginAtZero: true,
-          position: 'right',
+          title: {
+            display: true,
+            text: '件',
+          }
         }
       }
     }
   });
 </script>
+
+---
+
+### [詐騙手法月統計：受理數](https://165dashboard.tw/)
+警政署 2025.09
+
+| | 手法 | 受理數（件） | 財產損失（NTD） | 
+| ---: | :--- | ---: | ---: |
+| :one: | 網路購物 | 3,625 | 267,107,000 |
+| :two: | 假投資 | 1,769 | 2,639,595,000 |
+| :three: | 假交友（投資詐財） | 1,038 | 1,482,198,000 |
+| :four: | 色情應召詐財 | 856 | 125,515,000 |
+| :five: | 假交友（徵婚詐財） | 783 | 216,549,000 |
+
+---
+
+### [詐騙手法月統計：財損](https://165dashboard.tw/)
+警政署 2025.09
+
+| | 手法 | 受理數（件） | 財產損失（NTD） | 
+| ---: | :--- | ---: | ---: |
+| :one: | 假投資 | 1,769 | 2,639,595,000 |
+| :two: | 假交友（投資詐財） | 1,038 | 1,482,198,000 |
+| :three: | <mark>假檢警</mark> | 416 | 873,892,000 |
+| :four: | 網路購物 | 3,625 | 267,107,000 |
+| :five: | 假交友（徵婚詐財） | 783 | 216,549,000 |
 
 ---
 
