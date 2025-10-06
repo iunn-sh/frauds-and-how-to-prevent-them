@@ -19,21 +19,23 @@ Frauds and How to Prevent Them
 
 ## Outline 大綱
 
-1. 案例統計
-2. 常見詐騙手法
+1. 常見詐騙手法
+2. 案例統計
 3. 實戰演練
 4. 檢討機制
-5. 尋求救濟
 
 <!-- 投影片會後提供 -->
 <!-- 底線 = 連結 -->
 
 ---
 
+![bg opacity:0.5](https://images.unsplash.com/photo-1670085734247-b3da1b78ab54)
+
 # 詐騙之島？
 
 詐騙是怎麼煉成的
-案例統計
+目標
+手法
 
 ---
 
@@ -55,7 +57,14 @@ Frauds and How to Prevent Them
 
 ---
 
-### [愛情陷阱！假交友詐騙橫行 甜言蜜語背後藏危機](https://police.npa.gov.tw/ch/app/data/view?module=wg081&id=1835&serno=0e226547-a730-4fb2-95b0-613e77746b82) 
+### [假冒親友急需用錢　潮警識破詐騙手法及時阻詐成功](https://www.pthg.gov.tw/chaozhou/News_Content.aspx?n=625E2F8A338E6751&sms=AF710C0DA2CA2C33&s=80C9BD98BEAC507A)
+嘉義縣政府警察局 2024.09
+
+潮州分局竹田分駐所所長...、警員...日前擔服10-12時巡邏勤務，接獲西勢郵局行員通報，稱有民眾疑遭詐騙，警方到場後中年男子向警方表示，近日他於<mark>LINE通訊軟體</mark>上接到稱是她女兒的訊息及佯稱近日剛更換電話號碼，其<mark>自稱他女兒的人表示現在急需用錢</mark>，需要付貨款金額82萬元，並分成42萬元及40萬元匯款，<mark>若不付款恐有違約等相關法律責任</mark>，中年男子情急之下，不疑有他，認為真的是女兒急需用錢，並依詐騙集團所提供之帳戶欲匯款。經盧等2員仔細查證該帳戶及LINE對話訊息，並耐心勸說，播放先前遭同樣詐騙手法的新聞供其觀看，耐心解釋這為典型的詐騙手法「假冒親友-猜猜我是誰」，中年男子終於卸下心房，警方協助致電給中年男子女兒原始號碼，讓其與女兒對話，最後證實為詐騙訊息，事後中年男子萬分感謝郵局行員及警方，避免渠成為詐騙集團的待宰羔羊。
+
+---
+
+### [愛情陷阱！假交友詐騙橫行　甜言蜜語背後藏危機](https://police.npa.gov.tw/ch/app/data/view?module=wg081&id=1835&serno=0e226547-a730-4fb2-95b0-613e77746b82) 
 內政部警政署 2025.05
 
 詐騙集團...透過社群媒體、交友軟體...等通訊工具，主動接觸目標對象，進而設下愛情與金錢交織的騙局。警方表示，詐騙集團會<mark>偽裝成帥氣男子或漂亮女性</mark>，並以「軍人」、「醫生」、「金融專業人士」等身分與被害人互動，過程中不斷關心對方、稱呼親密，很快就<mark>發展成「網戀關係」</mark>。在建立信任後，便開始鼓吹各種投資機會，...被害人在<mark>初期投入小額資金</mark>後，往往會看到帳戶顯示「穩定獲利」，因而深信不疑，<mark>逐步投入更大金額</mark>，當欲提領資金或帳戶出現異常時，對方卻以各種理由<mark>拖延、消失</mark>，甚至直接封鎖聯絡方式，才驚覺遭詐。
@@ -102,6 +111,19 @@ Frauds and How to Prevent Them
 ![](https://165dashboard.tw/CIB_DWS_API/api/DownloadArea/GetDownlodAreaImage?id=213596829688795136)
 
 ---
+
+### [鏟子超人免費雨鞋卻要付運費58元　這連結有毒！是詐騙](https://tw.nextapple.com/local/20251005/54C6DF573E80E7D7DAAA81B4F58A3DEB)
+壹蘋新聞網 2025.10
+
+根據警政署165反詐騙中心公佈的案例，1名準備前往花蓮救災的民眾於9月30日凌晨在Threads社群平台上，看到帳號「hqt441」發布貼文，聲稱要前往花蓮協助救災，並願意<mark>免費提供雨靴，僅需支付運費</mark>。由於該民眾正有前往災區幫忙的打算，便主動私訊聯繫對方。
+
+起初詐騙者態度誠懇友善，該民眾隨後加入對方LINE帳號，暱稱為「陳靜怡」，並於10月2日透過玉山銀行轉帳58元至對方提供的中國信託帳戶。然而，幾小時後，對方以「核對金流」、「製作感謝名冊」等理由，要求該民眾<mark>點選連結進行「實名制認證」</mark>。
+
+當民眾點入連結後發現頁面<mark>要求輸入完整銀行卡號</mark>，立刻警覺這是詐騙陷阱。他表示，如果只是單純寄送物資，根本不需要這些額外程序，只要提供帳號末5碼即可核對身份。於是他立即中斷與對方所有聯繫，並前往警察局報案。
+
+---
+
+![bg opacity:0.5](https://images.unsplash.com/photo-1517232115160-ff93364542dd)
 
 # 統計
 
@@ -152,6 +174,17 @@ Frauds and How to Prevent Them
     }
   });
 </script>
+
+---
+
+### [偏門工作好吃驚？從檢察官和領錢車手的對話，看我們和詐欺犯罪的距離](https://www.twreporter.org/a/bookreview-prosecutor-stories)
+報導者 2024.05
+
+詐騙集團的詐騙方式從過去的金光黨、假綁架，逐漸演進到假的色情援交、假冒親朋好友借款、假冒檢警偵辦案件，到最近比較常見的假投資、假網路拍賣、假求職，或是假裝代辦貸款，甚至是打出美女牌的愛情詐欺，方法可以說是日新月異。而詐騙的管道也從過去的市內電話、手機簡訊，一路進展到社群網站、交友軟體或通訊軟體。
+
+現在的詐騙集團分工相當細，有在機房裡面打電話或是發送訊息給被害人的人，有提供人頭帳戶讓被害人匯款的人，有負責收取人頭帳戶的存摺或提款卡的「收簿手」，有負責拿提款卡領錢的「車手」，有負責向車手收錢、彙整後交給上游的人（通常叫他們是「收水手」）。最後，還有利用各種管道（例如虛擬貨幣），將詐騙得到的錢洗錢逃避追查後，再分配詐騙所得的人。
+
+<mark>目前檢警調花最多心力追查的，大部分都是提供人頭帳戶的人、車手以及收水手。</mark>詐欺犯的刑度，嚴格來講並不是非常重，但是詐騙可以獲得的利潤卻是相當可觀，所以詐騙集團可以吸收到很多人去當車手，其中很多都是年紀很輕的人，甚至還有不少中輟生加入集團。
 
 ---
 
@@ -209,7 +242,7 @@ Frauds and How to Prevent Them
 ---
 
 ### [詐騙手法月統計：受理數](https://165dashboard.tw/)
-警政署 2025.09
+內政部警政署 2025.09
 
 | | 手法 | 受理數（件） | 財產損失（NTD） | 
 | ---: | :--- | ---: | ---: |
@@ -222,7 +255,7 @@ Frauds and How to Prevent Them
 ---
 
 ### [詐騙手法月統計：財損](https://165dashboard.tw/)
-警政署 2025.09
+內政部警政署 2025.09
 
 | | 手法 | 受理數（件） | 財產損失（NTD） | 
 | ---: | :--- | ---: | ---: |
@@ -234,6 +267,19 @@ Frauds and How to Prevent Them
 
 ---
 
+### [行政院通過「打詐新4法」　遭疑越打越多？他解釋：逼出黑數](https://www.mnews.tw/story/20240509nm019)
+鏡新聞 2024.05
+
+宣示打詐決心不因內閣即將換屆受影響，行政院會通過打詐新四法，盼儘速送請立法院審議，早日完成三讀通過，以完善打詐防護網。打詐新四法強調「從源頭防制」，包括金融機構、虛擬資產服務業、電信網路平台電商等7大產業都負有防詐義務，同時也給予業者避風港免責條款。對於詐欺重案則予以嚴懲，騙得越多關得越久，千萬元以上的鉅額詐欺，加重刑責3年起跳最重10年；還有針對累犯的「三振條款」，犯案三次就不得假釋。
+
+...
+
+行政院強調，去年總計攔阻與圈存的被害款項達新臺幣93.79億元，查扣詐欺集團不法利得近40億元，警示帳戶下降了91%，常見的遊戲點數詐騙也減少94%。但<mark>民眾體感上卻覺得詐騙案件越來越多？</mark>對此羅秉成解釋，<mark>打詐勢必逼出黑數</mark>，以數據來看，去年案件數比前年增27％，因此民眾有這種感受是對的，接下來還會有一波波的「窒息性執法」，要把黑數逼出來，避免再有受害人。
+
+---
+
+![bg opacity:0.5](https://images.unsplash.com/photo-1503482618211-c70b46ede8b0)
+
 # 實戰演練
 
 角色扮演
@@ -241,7 +287,7 @@ Frauds and How to Prevent Them
 
 ---
 
-## 普發現金挑戰賽
+## 普發現金挑戰賽 :money_with_wings:
 
 角色扮演
 - 攻擊：施詐
@@ -264,11 +310,8 @@ Frauds and How to Prevent Them
 
 1. 意圖為自己或第三人不法之所有，以<mark>詐術</mark>使人將本人或第三人之物<mark>交付</mark>者，處5年以下有期徒刑、拘役或科或併科50萬元以下罰金。
 2. 以前項方法得財產上不法之利益或使第三人得之者，亦同。
-3. 前二項之未遂犯罰之。
 
-:arrow_right: 施用詐術＋陷於錯誤＋處分財產＋財產損害
-
----
+:books: 施用詐術＋陷於錯誤＋處分財產＋財產損害
 
 ### 刑法§339-4（加重詐欺）
 
@@ -277,15 +320,12 @@ Frauds and How to Prevent Them
   二、<mark>三人以上</mark>共同犯之。
   三、以<mark>廣播電視、電子通訊、網際網路</mark>或其他媒體等傳播工具，<mark>對公眾散布</mark>而犯之。
   四、以電腦合成或其他科技方法<mark>製作關於他人不實影像、聲音或電磁紀錄</mark>之方法犯之。
-2. 前項之未遂犯罰之。
 
 ---
 
 ### 詐欺犯罪危害防制條例§43
 
-1. 犯刑法第339-4條之之罪，詐欺獲取之財物或財產上利益達新臺幣<mark>500萬元</mark>者，處3年以上10年以下有期徒刑，得併科新臺幣3,000萬元以下罰金。因犯罪獲取之財物或財產上利益達新臺幣<mark>1億元</mark>者，處5年以上12年以下有期徒刑，得併科新臺幣3億元以下罰金。
-
----
+犯刑法第339-4條之之罪，詐欺獲取之財物或財產上利益達新臺幣<mark>500萬元</mark>者，處3年以上10年以下有期徒刑，得併科新臺幣3,000萬元以下罰金。因犯罪獲取之財物或財產上利益達新臺幣<mark>1億元</mark>者，處5年以上12年以下有期徒刑，得併科新臺幣3億元以下罰金。
 
 ### 詐欺犯罪危害防制條例§44
 
@@ -335,11 +375,12 @@ Frauds and How to Prevent Them
 
 ---
 
-![bg right](https://images.unsplash.com/photo-1529480653440-0e5fd1af911c)
+![bg right](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
 
 ## 輔助：親友、雞婆路人
 
 - 識詐
+- 事前／事中／事後
 - 信任關係
 
 ---
@@ -352,6 +393,7 @@ Frauds and How to Prevent Them
 ---
 
 <!-- _class: side-figure -->
+> ![](https://165.npa.gov.tw/images/20250910/DC81585DD5F3F12DB134EB0ACFCD9F0B.jpg)
 
 ### [慎防普發萬元詐騙](https://165.npa.gov.tw/#/article/1/1715)
 內政部警政署 2025.09
@@ -362,21 +404,18 @@ Frauds and How to Prevent Them
 - 不匯款任何費用
 - 不轉傳陌生訊息
 
-> ![](https://165.npa.gov.tw/images/20250910/DC81585DD5F3F12DB134EB0ACFCD9F0B.jpg)
+---
+
+![bg opacity:0.5](https://images.unsplash.com/photo-1591809380758-d311d61a3476)
+
+# 檢討機制
+
+檢討回顧
+保護機制
 
 ---
 
-## 普發現金挑戰賽．再起
-
-reveal identity
-
-switch roles
-
-twist - challenge accepted
-
----
-
-## Retro 檢討回顧
+## Retro 檢討回顧 :small_red_triangle:
 
 > 法醫是為了未來的科學。 - UNNATURAL 法醫女王
 
@@ -392,37 +431,60 @@ twist - challenge accepted
 
 ---
 
-# 保護機制
-
-協助資源
-救濟方式
-
----
-
 ## 協助資源
 
 - 打詐儀錶板
 - 165反詐騙專線
 - 警局報案
 - 通報金融機構
+- <mark>親友智囊團</mark>
 
 ---
 
-## 普發現金挑戰賽．以終為始
+## 普發現金挑戰賽．以終為始 :money_with_wings: :checkered_flag:
 
 更好的提案？
 - 識別詐騙
-- 打擊詐騙
+- 阻止詐騙
+
+---
+
+<!-- _class: side-figure -->
+> ![](https://www.booklife.com.tw/upload_files/fonlego-rwd/website/parent65.jpg)
+
+### [講都講不聽？兒女的鬱悶！幫助長輩防詐騙，你第一件要做的事！《當爸媽過了65歲》](https://www.booklife.com.tw/baike-detail/4/1958)
+圓神書活網
+
+1. 提醒長輩注意詐騙常見關鍵詞
+2. 勿隨意點選連結及進行帳號驗證
+3. 以工具協助篩選可疑訊息及來電
+4. 至銀行、地政事務所、法院設定通報及防護機制
+5. 要<mark>比詐騙集團更關心長輩</mark>
 
 ---
 
 ## Takeaway 精華
 
-- 保持警覺：陌生人、自稱政府機關、熟人（？）
-- 天下沒有白吃的午餐 The "too good to be true"
-- Trust but verify
-- 創意無限：手法多變且常推陳出新
-- 關心身邊人事物：大家都有重要角色
+* 保持警覺：陌生人、自稱政府機關、疑似熟人
+* 天下沒有白吃的午餐 The "too good to be true"
+* Trust but verify
+* Follow the money
+* 創意無限：手法多變且常推陳出新
+* 關心身邊人事物：適合的戰鬥位置 :military_helmet:
+
+---
+
+<!-- _class: align-bottom bg-white -->
+
+### Powered By 以上
+
+Github [iunn-sh/frauds-and-how-to-prevent-them](https://github.com/iunn-sh/frauds-and-how-to-prevent-them) ![GitHub License](https://img.shields.io/github/license/iunn-sh/frauds-and-how-to-prevent-them?style=flat-square)
+
+- Framework [`marp-team/marp-cli`](https://github.com/marp-team/marp-cli)
+- Theme [`rstacruz/marp-basetype`](https://github.com/rstacruz/marp-basetype)
+- Font [`LINE Seed TW`](https://font.emtech.cc/fonts/LINESeedTW)
+- Chart [`chartjs/Chart.js`](https://github.com/chartjs/Chart.js)
+- Image [`Unsplash`](https://unsplash.com/)
 
 ---
 
@@ -473,7 +535,7 @@ twist - challenge accepted
 
 ---
 
-[bg opacity:0.5](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
+![bg opacity:0.5](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
 
 # Image cover, light
 
