@@ -34,8 +34,6 @@ Frauds and How to Prevent Them
 # 詐騙之島？
 
 詐騙是怎麼煉成的
-目標
-手法
 
 ---
 
@@ -67,36 +65,22 @@ Frauds and How to Prevent Them
 ### [愛情陷阱！假交友詐騙橫行　甜言蜜語背後藏危機](https://police.npa.gov.tw/ch/app/data/view?module=wg081&id=1835&serno=0e226547-a730-4fb2-95b0-613e77746b82) 
 內政部警政署 2025.05
 
-詐騙集團...透過社群媒體、交友軟體...等通訊工具，主動接觸目標對象，進而設下愛情與金錢交織的騙局。警方表示，詐騙集團會<mark>偽裝成帥氣男子或漂亮女性</mark>，並以「軍人」、「醫生」、「金融專業人士」等身分與被害人互動，過程中不斷關心對方、稱呼親密，很快就<mark>發展成「網戀關係」</mark>。在建立信任後，便開始鼓吹各種投資機會，...被害人在<mark>初期投入小額資金</mark>後，往往會看到帳戶顯示「穩定獲利」，因而深信不疑，<mark>逐步投入更大金額</mark>，當欲提領資金或帳戶出現異常時，對方卻以各種理由<mark>拖延、消失</mark>，甚至直接封鎖聯絡方式，才驚覺遭詐。
+警方表示，詐騙集團會<mark>偽裝成帥氣男子或漂亮女性</mark>，並以「軍人」、「醫生」、「金融專業人士」等身分與被害人互動，過程中不斷關心對方、稱呼親密，很快就<mark>發展成「網戀關係」</mark>。在建立信任後，便開始鼓吹各種投資機會，...被害人在<mark>初期投入小額資金</mark>後，往往會看到帳戶顯示「穩定獲利」，因而深信不疑，<mark>逐步投入更大金額</mark>，當欲提領資金或帳戶出現異常時，對方卻以各種理由<mark>拖延、消失</mark>，甚至直接封鎖聯絡方式，才驚覺遭詐。
 
 假交友詐騙的5大特徵：
 1. 來路不明的好友邀請
 2. 甜言蜜語、快速建立信任
 3. 聊到投資或金錢話題
+4. 初期讓你小賺，誘導投入更多
 5. 不肯視訊、不願意見面
 
 ---
 
 ### 目標
 
-1. 個人資料 :identification_card:
-2. 錢：現金、付款資訊 :moneybag:
-3. 個資＋錢 :identification_card: :moneybag:
-
----
-
-### 常見詐騙手法（例）
-
-- 解除分期付款 :moneybag:
-- 求職 :identification_card: :moneybag:
-- 假交友 :identification_card: :moneybag:
-- 盜帳號 :identification_card:
-- 點數卡 :moneybag:
-- 網路購物 :moneybag:
-- 中獎／領補助 :identification_card: :moneybag:
-- 投資 :moneybag:
-- 戶政機關 :identification_card:
-- 健保 :identification_card: :moneybag:
+1) 個人資料 :identification_card:
+2) 錢：現金、匯款、付款資訊 :moneybag:
+3) 個人資料＋錢 :identification_card: :moneybag:
 
 ---
 
@@ -120,6 +104,22 @@ Frauds and How to Prevent Them
 起初詐騙者態度誠懇友善，該民眾隨後加入對方LINE帳號，暱稱為「陳靜怡」，並於10月2日透過玉山銀行轉帳58元至對方提供的中國信託帳戶。然而，幾小時後，對方以「核對金流」、「製作感謝名冊」等理由，要求該民眾<mark>點選連結進行「實名制認證」</mark>。
 
 當民眾點入連結後發現頁面<mark>要求輸入完整銀行卡號</mark>，立刻警覺這是詐騙陷阱。他表示，如果只是單純寄送物資，根本不需要這些額外程序，只要提供帳號末5碼即可核對身份。於是他立即中斷與對方所有聯繫，並前往警察局報案。
+
+---
+
+### 常見詐騙手法（例）
+
+- 求職 :identification_card: :moneybag:
+- 戶政機關 :identification_card:
+- 親友借錢 :moneybag:
+- 假交友 :identification_card: :moneybag:
+- 盜帳號 :identification_card:
+- 點數卡 :moneybag:
+- 網路購物 :moneybag:
+- 解除分期付款 :moneybag:
+- 中獎／領補助 :identification_card: :moneybag:
+- 投資 :moneybag:
+- 健保 :identification_card: :moneybag:
 
 ---
 
@@ -302,7 +302,7 @@ Frauds and How to Prevent Them
 
 - 施詐：目標 & 手段
 - 識別：肥羊、手法
-- 投其所好
+- 人設：投其所好
 
 ---
 
@@ -311,7 +311,7 @@ Frauds and How to Prevent Them
 1. 意圖為自己或第三人不法之所有，以<mark>詐術</mark>使人將本人或第三人之物<mark>交付</mark>者，處5年以下有期徒刑、拘役或科或併科50萬元以下罰金。
 2. 以前項方法得財產上不法之利益或使第三人得之者，亦同。
 
-:books: 施用詐術＋陷於錯誤＋處分財產＋財產損害
+:warning: 施用詐術＋陷於錯誤＋處分財產＋財產損害
 
 ### 刑法§339-4（加重詐欺）
 
@@ -392,17 +392,14 @@ Frauds and How to Prevent Them
 
 ---
 
-<!-- _class: side-figure -->
-> ![](https://165.npa.gov.tw/images/20250910/DC81585DD5F3F12DB134EB0ACFCD9F0B.jpg)
+## 普發現金挑戰賽．再起 :money_with_wings: :black_joker:
 
-### [慎防普發萬元詐騙](https://165.npa.gov.tw/#/article/1/1715)
-內政部警政署 2025.09
+實作大亂鬥
 
-四不原則
-- 不點擊可疑連結
-- 不填寫個資帳號
-- 不匯款任何費用
-- 不轉傳陌生訊息
+0. 肥羊
+1. 詐騙集團
+2. 銀行行員
+3. 室友
 
 ---
 
@@ -438,6 +435,20 @@ Frauds and How to Prevent Them
 - 警局報案
 - 通報金融機構
 - <mark>親友智囊團</mark>
+
+---
+
+<!-- _class: side-figure -->
+> ![](https://165.npa.gov.tw/images/20250910/DC81585DD5F3F12DB134EB0ACFCD9F0B.jpg)
+
+### [慎防普發萬元詐騙](https://165.npa.gov.tw/#/article/1/1715)
+內政部警政署 2025.09
+
+四不原則
+- 不點擊可疑連結
+- 不填寫個資帳號
+- 不匯款任何費用
+- 不轉傳陌生訊息
 
 ---
 
@@ -485,261 +496,4 @@ Github [iunn-sh/frauds-and-how-to-prevent-them](https://github.com/iunn-sh/fraud
 - Font [`LINE Seed TW`](https://font.emtech.cc/fonts/LINESeedTW)
 - Chart [`chartjs/Chart.js`](https://github.com/chartjs/Chart.js)
 - Image [`Unsplash`](https://unsplash.com/)
-
----
-
-# Basic cover
-
----
-
-# Basic cover, dark
-<!-- _class: bg-dark -->
-
----
-
-# Basic cover, gray
-<!-- _class: bg-gray -->
-
----
-
-# Basic cover, grid
-<!-- _class: bg-grid -->
-
----
-
-![bg right](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
-
-# Image cover, split dark
-<!-- _class: bg-dark -->
-
----
-
-![bg right](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
-
-# Image cover, split light
-
----
-
-![bg right](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
-
-# Image cover, split grid
-<!-- _class: bg-grid -->
-
----
-
-<!-- _class: bg-dark -->
-
-![bg brightness:.7](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
-
-# Image cover, dark
-
----
-
-![bg opacity:0.5](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
-
-# Image cover, light
-
----
-
-<!-- _class: bg-dark -->
-
-![bg brightness:.5 right](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
-
-# Image heading, split
-
----
-
-<!-- _class: bg-dark -->
-
-![bg brightness:.5](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
-
-# Image heading, dark
-
----
-
-![bg opacity:0.5](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
-
-# Image heading, light
-
----
-
-<!-- _header: Inline image, wide -->
-<!-- _class: no-image-shadow -->
-
-![](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*_9cez7-2OwbRVJlFp5bVnQ.png)
-
-It's very important to be looking at phones for a long time.
-
----
-
-<!-- _class: font-sm -->
-<!-- _header: Background, split right -->
-
-![bg right](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
-
-## Split right
-
-Vitest comes with a UI that runs in the browser. It can show code, and even print out console.log() calls!
-
-This might seem excessive for those who prefer the command line, but it makes for a lot of convenient things like drilling down to specific tests.
-
----
-
-<!-- _class: font-sm -->
-<!-- _header: Background, split right -->
-
-![bg right contain](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
-
-## Split right
-
-Vitest comes with a UI that runs in the browser. It can show code, and even print out console.log() calls!
-
-This might seem excessive for those who prefer the command line, but it makes for a lot of convenient things like drilling down to specific tests.
-
----
-
-<!-- _header: Basic paragraph text -->
-
-## Paragraphs of text
-
-The violin, sometimes known as a fiddle, is a wooden chordophone (string instrument) in the violin family. Most violins have a hollow wooden body. It is the smallest and thus highest-pitched instrument (soprano) in the family in regular use.
-
-Violins are important instruments in a wide variety of musical genres. They are most prominent in the Western classical tradition, both in ensembles (from chamber music to orchestras) and as solo instruments.
-
----
-
-## Simple bullet list
-
-Est pellentesque elit ullamcorper dignissim cras. Urna duis convallis convallis tellus id interdum velit laoreet. Ipsum dolor sit amet consectetur adipiscing. Commodo quis imperdiet massa tincidunt nunc pulvinar:
-
-- Very fast, takes 3 seconds
-- Can be done at home
-- Easy cleanup and disposal
-- Affordable
-
----
-
-## Bullet list with columns
-
-<div class="columns-2">
-
-Est pellentesque elit ullamcorper dignissim cras. Urna duis convallis convallis tellus id interdum velit laoreet. Ipsum dolor sit amet consectetur adipiscing. Commodo quis imperdiet massa tincidunt nunc pulvinar:
-
-- Very fast, takes 3 seconds
-- Can be done at home
-- Easy cleanup and disposal
-- Affordable
-
-</div>
-
----
-
-<!-- _header: Bullet paragraphs -->
-
-**Bullets with paragraphs.** Est pellen esque elit ullamcorper dignissim cras. Urna duis convallis convallis tellus id interdum velit laoreet. Ipsum dolor sit amet consectetur adipiscing. Commodo quis imperdiet massa tincidunt nunc pulvinar:
-
-- :keyboard: **Colemak mod-DH** — The base layer is arranged in the Colemak mod-DH layout. Aside from being efficient on ortholinear keyboards, it also allows for a familiar placement of Backspace on a compact layout.
-
-- :keyboard: **Modifier keys** — There are dedicated keys for Cmd and Opt (or Alt and Win in Windows), but Ctrl and Enter are shared by one key (tap for Enter, hold for Ctrl).
-
-- :keyboard: **Layers** — There’s a Nav key to access numbers and arrows (a “layer” in QMK and ZMK terms). There’s a Sym key to access symbols.
-
----
-
-## With image
-
-<!-- _class: side-figure -->
-<!-- _header: Side figure with image -->
-
-Violins are also important in many varieties of folk music, including country music, bluegrass music, and in jazz. Electric violins with solid bodies and piezoelectric pickups are used in some forms of rock music and jazz fusion.
-
-> ![](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
-
----
-
-<!-- _class: side-figure bg-dark -->
-<!-- _header: Side figure with image -->
-
-**Dark background** — The violin was first known in 16th-century Italy, with some further modifications occurring in the 18th and 19th centuries.
-
-In Europe, it served as the basis for the development of other stringed instruments used in Western classical music.
-
-> ![](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
-
----
-
-## Code block
-
-<!-- _class: side-figure -->
-<!-- _header: Side figure with code -->
-
-React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality.
-
-React adheres to the <mark>declarative programming</mark> paradigm. This is in contrast with imperative.
-
-<figure>
-
-```javascript
-import ReactDOM from "react-dom";
-
-it("works", () => {
-  ReactDOM.render(<div>hello!</div>, document.body);
-  expect(document.body.innerText).toBe("hello?");
-});
-```
-
-> :point_up: This code block might have an error. Do you think you can find it? At least 3 people can't.
-
-</figure>
-
----
-
-<!-- _header: Wide image -->
-
-![](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
-
-**Image example** — This image appears to be rather large.
-
----
-
-<!-- _header: Background image -->
-<!-- _class: align-bottom bg-gray -->
-
-![bg](https://images.unsplash.com/photo-1623522264952-8dff960ec8f2)
-
-This image is a background.
-
----
-
-## Two columns
-
-<!-- _header: Two columns -->
-
-<div class="columns-2">
-
-Use `<div class="columns-2">` to break a section up into columns. The violin, sometimes known as a fiddle, is a wooden chordophone in the violin family.
-
-Most violins have a hollow wooden body. It is the smallest and thus highest-pitched instrument in the family in regular use.
-
-</div>
-
-```javascript
-import ReactDOM from "react-dom";
-
-it("works", () => {
-  ReactDOM.render(<div>hello!</div>, document.body);
-  expect(document.body.innerText).toBe("hello!");
-});
-```
-
----
-
-<!-- _class: align-bottom bg-white -->
-<!-- _header: Closing list -->
-
-Links for further reading:
-
-- https://github.com/rstacruz
-- https://twitter.com/rstacruz
-- https://dev.to/rstacruz
 
