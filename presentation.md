@@ -125,7 +125,7 @@ Frauds and How to Prevent Them
 
 ![bg opacity:0.5](https://images.unsplash.com/photo-1517232115160-ff93364542dd)
 
-# 統計
+# 案例統計
 
 法務部地檢署
 內政部警政署
@@ -287,7 +287,10 @@ Frauds and How to Prevent Them
 
 ---
 
-## 普發現金挑戰賽 :money_with_wings:
+<!-- _class: side-figure -->
+> ![](https://165dashboard.tw/CIB_DWS_API/api/DownloadArea/GetDownlodAreaImage?id=203030685080883200)
+
+## [普發現金挑戰賽](https://165dashboard.tw/download-area/138554290309435392) :money_with_wings:
 
 角色扮演
 - 攻擊：施詐
@@ -303,6 +306,31 @@ Frauds and How to Prevent Them
 - 施詐：目標 & 手段
 - 識別：肥羊、手法
 - 人設：投其所好
+
+---
+
+### [詐團濫用「普發現金1萬元」名義施詐　刑事局超前部署守護民眾財產](https://news.ttv.com.tw/news/11409250001200W)
+台視新聞網 2025.09
+
+為防堵詐團藉「普發現金」名義行騙，刑事局特別歸納三大高風險手法：
+
+1. <mark>假檢警詐騙</mark>。詐團先以郵局通知「普發1萬元遭冒領」為由，轉接假冒的警察或檢察官，聲稱民眾涉入重大刑案，進而要求交付存摺、提款卡或OTP密碼，甚至索討大筆現金。歹徒常藉「偵查不公開」製造壓力，阻止民眾查證。
+2. <mark>騙取金融帳戶</mark>。詐團假借協助登記或代領名義，要求寄送金融卡或借用帳戶，導致民眾帳戶淪為洗錢工具，不僅損財，還可能背上法律責任。
+3. <mark>釣魚簡訊</mark>。詐團冒用政府名義發送「立即登記普發現金」連結，誘民眾點擊後輸入個資與金融資訊，造成資安風險。
+
+---
+
+### [最詳細的普發現金詐騙Q&A，哪些是詐騙？接到電話、簡訊、Email如何辨識？普發現金何時可以領取？](https://165.npa.gov.tw/#/article/A/1722)
+內政部警政署 2025.10
+
+![](https://165.npa.gov.tw/images/20251008/2213E4AB75373D8F86E0F1784C6C1931.png)
+
+---
+
+### [最詳細的普發現金詐騙Q&A，哪些是詐騙？接到電話、簡訊、Email如何辨識？普發現金何時可以領取？](https://165.npa.gov.tw/#/article/A/1722)
+內政部警政署 2025.10
+
+![](https://165.npa.gov.tw/images/20251008/DC40B941DED0C2D8E4DFD17F6AB02DCE.png)
 
 ---
 
@@ -392,14 +420,25 @@ Frauds and How to Prevent Them
 
 ---
 
-## 普發現金挑戰賽．再起 :money_with_wings: :black_joker:
+### [遛狗立大功　熱心民眾一通電話阻止600萬鉅款被騙走 ](https://n.yam.com/Article/20251004941726)
+蕃薯藤 2025.10
+
+全案發生於9月17日14時許，竹北市某公園一名<mark>遛狗民眾</mark>，遠遠發現<mark>兩名神色慌張男子在廁所旁碰面，其中一人提著鞋盒般的紙箱，舉止可疑</mark>，於是立即撥打110報警。
+
+竹北警分局三民派出所員警火速趕抵現場，當場逮捕<mark>準備收款的詐欺車手</mark>，並查扣鞋盒內的600萬元現金，經深入追查，600萬元現金為一名婦人所有，她在LINE上認識一名男網友，對方以交友為由熱絡搭訕，博取信任後，誘導她下載假投資APP，再由詐團假冒客服提供「錢包地址」，並指示她透過假幣商購買泰達幣（USDT），最終要求以現金面交方式交付。婦人誤信話術，準備600萬元裝進鞋盒赴約，所幸警方及時逮入，才未釀成重大財損。
+
+---
+
+![bg contain right](https://www.vac.gov.tw/Public/Images/202304/715230407132678609.jpg)
+
+## [普發現金挑戰賽．再起](https://www.vac.gov.tw/vac_service/taipei/cp-1100-144464-102.html) :black_joker:
 
 實作大亂鬥
 
 0. 肥羊
 1. 詐騙集團
 2. 銀行行員
-3. 室友
+3. 親友／路人
 
 ---
 
@@ -422,19 +461,36 @@ Frauds and How to Prevent Them
 
 ---
 
-[二次詐騙](https://165.npa.gov.tw/#/article/C/1467) 2024.04
+<!-- _class: side-figure -->
+> ![](https://www.cnma.org.tw/upload/web/images/a08286.jpg)
 
-![](https://165.npa.gov.tw/images/20240422/E30D5F4ED8CF4F8B5F461241F0091F52.jpg)
+### [宣稱幫你追回被詐款項　當心二次詐騙找上你](https://www.cnma.org.tw/page/news/show.aspx?num=29864)
+CNMA新聞聯合網 2023.08
+
+所謂「二次詐騙」係詐騙集團誘騙<mark>曾遭詐騙被害人</mark>...，佯稱為警察、檢察官、律師、銀行或有特殊手段團隊，<mark>聲稱可領回或追回先前遭詐騙款項</mark>，巧立名目向被害人<mark>收取「手續費」...等費用</mark>，並按照指示操作ATM、網銀或臨櫃匯款，若被害人猶豫是否要付款時，對方會一直催促說越早開始越容易拿回，<mark>利用時間的急迫性</mark>讓被害人無法好好思考，依照指示匯款後，就會再次遭受詐騙，損失更加慘重。
 
 ---
 
 ## 協助資源
 
-- 打詐儀錶板
+- [打詐儀錶板](https://165dashboard.tw)
+- [網路詐騙通報查詢網](https://fraudbuster.digiat.org.tw)
 - 165反詐騙專線
 - 警局報案
 - 通報金融機構
 - <mark>親友智囊團</mark>
+
+---
+
+<!-- _class: side-figure -->
+> ![](https://165dashboard.tw/CIB_DWS_API/api/DownloadArea/GetDownlodAreaImage?id=198966367829889024)
+
+## [普發現金挑戰賽．突破](https://165dashboard.tw/download-area/138554290309435392) :checkered_flag:
+
+更好的提案？
+- 識別詐騙
+- 阻止詐騙
+- <mark>詐騙集團無法觸及的管道</mark>：如瓦斯費代收
 
 ---
 
@@ -449,14 +505,6 @@ Frauds and How to Prevent Them
 - 不填寫個資帳號
 - 不匯款任何費用
 - 不轉傳陌生訊息
-
----
-
-## 普發現金挑戰賽．以終為始 :money_with_wings: :checkered_flag:
-
-更好的提案？
-- 識別詐騙
-- 阻止詐騙
 
 ---
 
@@ -478,8 +526,8 @@ Frauds and How to Prevent Them
 
 * 保持警覺：陌生人、自稱政府機關、疑似熟人
 * 天下沒有白吃的午餐 The "too good to be true"
-* Trust but verify
-* Follow the money
+* 電話自己打 Trust but verify
+* 關鍵在金流 Follow the money
 * 創意無限：手法多變且常推陳出新
 * 關心身邊人事物：適合的戰鬥位置 :military_helmet:
 
