@@ -522,9 +522,20 @@ CNMA新聞聯合網 2023.08
 
 ---
 
+<!-- _class: side-figure -->
+> ![](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Be_Scam_Ready.width-1200.format-webp.webp)
+
+### [Google在台推全新遊戲，提升全民詐騙防禦力](https://blog.google/intl/zh-tw/company-news/outreach-initiatives/be-scam-ready/) :brain:
+Google 2025.10
+
+Google在台灣推出全新互動遊戲「[防詐大作戰](https://bescamready.withgoogle.com/intl/zh_tw/play)」，帶領使用者透過遊戲式學習，認識常見詐騙手法，輕鬆建立數位防禦力，有效防範網路詐騙。 
+
+---
+
 ## Takeaway 精華
 
 * 保持警覺：陌生人、自稱政府機關、疑似熟人
+* 重要決策都可以等
 * 天下沒有白吃的午餐 The "too good to be true"
 * 電話自己打 Trust but verify
 * 關鍵在金流 Follow the money
