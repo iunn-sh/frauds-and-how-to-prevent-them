@@ -90,9 +90,9 @@ Frauds and How to Prevent Them
 
 ---
 
-[假投資](https://165dashboard.tw/download-area/138554219148873728) 2025.07
+[猜猜我是誰](https://165dashboard.tw/fraud-method/226156776171507712)
 
-![](https://165dashboard.tw/CIB_DWS_API/api/DownloadArea/GetDownlodAreaImage?id=213596829688795136)
+![](https://165dashboard.tw/CIB_DWS_API/api/CaseStudy/GetCaseStudyFormulaBreakdown?id=226156776171507712)
 
 ---
 
@@ -264,6 +264,24 @@ Frauds and How to Prevent Them
 | :three: | <mark>假檢警</mark> | 416 | 873,892,000 |
 | :four: | 網路購物 | 3,625 | 267,107,000 |
 | :five: | 假交友（徵婚詐財） | 783 | 216,549,000 |
+
+---
+
+[假買家騙賣家](https://165dashboard.tw/fraud-method/224352584377307136)
+
+![](https://165dashboard.tw/CIB_DWS_API/api/CaseStudy/GetCaseStudyFormulaBreakdown?id=224352584377307136)
+
+---
+
+[假投資](https://165dashboard.tw/download-area/138554219148873728) 2025.07
+
+![](https://165dashboard.tw/CIB_DWS_API/api/DownloadArea/GetDownlodAreaImage?id=213596829688795136)
+
+---
+
+[假檢警](https://165dashboard.tw/fraud-method/234571374801195008)
+
+![](https://165dashboard.tw/CIB_DWS_API/api/CaseStudy/GetCaseStudyFormulaBreakdown?id=234571374801195008)
 
 ---
 
@@ -471,7 +489,10 @@ CNMA新聞聯合網 2023.08
 
 ---
 
-## 協助資源
+<!-- _class: side-figure -->
+> ![](https://165dashboard.tw/CIB_DWS_API/api/DownloadArea/GetDownlodAreaImage?id=198966367829889024)
+
+## [協助資源]((https://165dashboard.tw/download-area/138554290309435392))
 
 - [打詐儀錶板](https://165dashboard.tw)
 - [網路詐騙通報查詢網](https://fraudbuster.digiat.org.tw)
@@ -483,9 +504,9 @@ CNMA新聞聯合網 2023.08
 ---
 
 <!-- _class: side-figure -->
-> ![](https://165dashboard.tw/CIB_DWS_API/api/DownloadArea/GetDownlodAreaImage?id=198966367829889024)
+> ![](https://www.ey.gov.tw/File/702D0A41FD81A137?S=L)
 
-## [普發現金挑戰賽．突破](https://165dashboard.tw/download-area/138554290309435392) :checkered_flag:
+## [普發現金挑戰賽．突破](https://www.ey.gov.tw/Page/5B2FC62D288F4DB7/b0e6b10d-8dd3-459a-a5fa-65fc8899ff75) :checkered_flag:
 
 更好的提案？
 - 識別詐騙
