@@ -530,6 +530,18 @@ CNMA新聞聯合網 2023.08
 ---
 
 <!-- _class: side-figure -->
+> ![](https://pro.10000.gov.tw/inc/download/07-cheat-big.png)
+
+### [防詐騙](https://pro.10000.gov.tw/cheat.html)
+財政部 2025.10
+
+- 政府不會主動發簡訊或電子郵件通知領錢、登錄，也不會電話要求至ATM或網銀操作轉帳。
+- 不明連結不點擊，個資不輸入。
+- 認明正確官網[10000.gov.tw](10000.gov.tw)，如遇可疑訊息撥打165反詐騙專線。
+
+---
+
+<!-- _class: side-figure -->
 > ![](https://www.booklife.com.tw/upload_files/fonlego-rwd/website/parent65.jpg)
 
 ### [講都講不聽？兒女的鬱悶！幫助長輩防詐騙，你第一件要做的事！《當爸媽過了65歲》](https://www.booklife.com.tw/baike-detail/4/1958)
