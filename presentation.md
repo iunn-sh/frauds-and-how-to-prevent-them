@@ -543,7 +543,7 @@ CNMA新聞聯合網 2023.08
 ---
 
 <!-- _class: side-figure -->
-> ![]([https://ce.ncut.edu.tw/var/file/11/1011/img/306/584604141.png)
+> ![](https://ce.ncut.edu.tw/var/file/11/1011/img/306/584604141.png)
 
 ### [防詐騙](https://pro.10000.gov.tw/cheat.html)
 財政部 2025.10
